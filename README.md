@@ -11,8 +11,8 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=LandChit&style=for-the-badge&color=red" alt=""/>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=LandChit&hide=commits"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandChit&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=LandChit&hide=commits&show_icons=true&theme=dracula"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandChit&layout=compact&theme=dracula" alt="Top Languages">
 
 </div>
 
