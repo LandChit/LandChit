@@ -16,9 +16,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=LandChit&hide=commits&show_icons=true&theme=dracula" style="height:175px">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandChit&layout=compact&theme=dracula" alt="Top Languages" style="height:175px"/><br>
             <b><u>What I'm up to</u></b>
-                <li>Studying Civil Engineering at a State University👷‍♂️</li>
-                <li>Working on a program that can help me study for school 📚</li>
-                <li>Relaxing(probably)</li>
+                <li>🏫 | Student at: National University (Philippines)</li>
+                <li>👾 | Doing this for fun</li>
 </div>
 
 
