@@ -2,7 +2,7 @@
 <div align="center">
     <div>
     <b>LandChit</b>
-        <p style="padding:5px;">Welcome to my profile that doesn't have anything special on it. So Here are my other socials</p>
+        <p style="padding:5px;">Welcome to my profile that doesn't have anything special on it. So here are my other socials</p>
         <div id="badges" style="max-width:250px">
             <a href="https://youtube.com/@landchit">
                 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -15,9 +15,8 @@
     </div>
         <img src="https://github-readme-stats.vercel.app/api?username=LandChit&hide=commits&show_icons=true&theme=dracula" style="height:175px">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandChit&layout=compact&theme=dracula" alt="Top Languages" style="height:175px"/><br>
-            <b><u>What I'm up to</u></b>
-                <li>🏫 | Student at: National University (Philippines)</li>
-                <li>👾 | Doing this for fun</li>
+    <hr>
+    <span>Visit my Portfolio: </span><a href="https://landchit.dev">landchit.dev</a>
 </div>
 
 
